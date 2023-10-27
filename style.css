@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+@font-face {
+    font-family: grotesk;
+    src: url(./font/BricolageGrotesque-VariableFont_opsz\,wdth\,wght.ttf);
+}
+
+.pri-bg-col{
+    background-color: #27a776;;
+}
+.pri-fc{
+    color: #27a776;
+}
+.z{
+    z-index: 100;
+}
+
